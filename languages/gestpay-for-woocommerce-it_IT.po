@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Easy Nolo s.p.a. <info@easynolo.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: it_IT\n"
+
+msgid "Enable/Disable"
+msgstr "Abilita/Disabilita"
+
+msgid "Enable Gestpay when selected."
+msgstr "Abilita GestPay quando selezionato."
+
+msgid "Title"
+msgstr "Titolo"
+
+msgid "The title of the payment method which the buyer sees at checkout."
+msgstr "Il titolo del metodo di pagamento visualizzato dall'acquirente al checkout."
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "The description of the payment method which the buyer sees at checkout."
+msgstr "La descrizione del metodo di pagamento visualizzata dall'acquirente al checkout."
+
+msgid "Consel Merchant ID"
+msgstr "Consel ID Esercente"
+
+msgid "Cosel Merchant Code Convention"
+msgstr "Consel Codice Esercente di Convenzione"
+
+msgid "Overwrite card icons"
+msgstr "Sovrascrivi icone carte"
+
+msgid "Select the cards you want to display as an icon (note: the fact that they are really active or not depends on the Gestpay settings)"
+msgstr "Seleziona le carte che vuoi mostrare come icona (nota: il fatto che siano realmente attive o meno dipende dalle impostazioni di Gestpay)"
+
+msgid "Transaction for order %s failed with error %s"
+msgstr "La transazione per l'ordine %s è fallita con errore %s"
+
+msgid "Thank you for shopping with us. Your transaction %s has been processed correctly. We will be shipping your order to you soon."
+msgstr "Grazie per aver acquistato da noi. Il tuo ordine %s è stato correttamente elaborato. Presto spediremo il tuo ordine."
+
+msgid "Transaction for order %s has been completed successfully."
+msgstr "La transazione per l'ordine %s è stata completata con successo."
+
+msgid "Manage Your Cards"
+msgstr "Gestisci le tue Carte di Credito"
+
+msgid "%s (expires %s/%s)"
+msgstr "%s (scadenza %s/%s)"
+
+msgid "Use a new credit card"
+msgstr "Utilizza una nuova carta di credito"
+
+msgid "Credit Card Number"
+msgstr "Numero Carta di Credito"
+
+msgid "Expiration Date"
+msgstr "Data di scadenza"
+
+msgid "Month"
+msgstr "Mese"
+
+msgid "Year"
+msgstr "Anno"
+
+msgid "Card Security Code"
+msgstr "Codice di Sicurezza"
+
+msgid "Card"
+msgstr "Carta di Credito"
+
+msgid "Expires"
+msgstr "Scadenza"
+
+msgid "Actions"
+msgstr "Azioni"
+
+msgid "Soap Client Request Exception with error %s"
+msgstr "Eccezione nella richiesta SOAP con errore %s"
+
+msgid "Activate"
+msgstr "Attiva"
+
+msgid "Deactivate"
+msgstr "Disattiva"
+
+msgid "Clear"
+msgstr "Cancella"
+
+msgid "Request Error"
+msgstr "Errore nella richiesta"
+
+msgid "An unknown error occurred"
+msgstr "Errore sconosciuto"
+
+msgid "License"
+msgstr "Licenza"
+
+msgid "Fatal Error: Soap Client Request Exception with error %s"
+msgstr "Errore Fatale: Eccezione nella richiesta SOAP con errore %s"
+
+msgid "Transaction failed with error %s"
+msgstr "La transazione è fallita con errore %s"
+
+msgid "Transaction #%s has been completed successfully."
+msgstr "La transazione #%s è stata completata con successo."
+
+msgid "Gestpay Error #%s on Payment phase: %s"
+msgstr "Errore GestPay #%s in fase di pagamento: %s"
+
+msgid "Are you sure you want to delete this card?"
+msgstr "Sei sicuro di voler cancellare questa carta?"
+
+msgid "There was an error with your request, please try again."
+msgstr "C'è stato un errore nella richiesta, per favore prova di nuovo."
+
+msgid "GestPay Subscription Renewal Payment Approved"
+msgstr "Pagamento di rinnovo con GestPay Approvato"
+
+msgid "An error occours on sella_s2s_payment."
+msgstr "Errore in sella_s2s_payment."
+
+msgid "You are trying to force a recurring payment but the 3D Secure protocol is enabled."
+msgstr "Stai cercando di forzare un pagamento ricorrente ma il protocollo 3D Secure è abilitato."
+
+msgid "Token not provided."
+msgstr "Token non fornito."
+
+msgid "GestPay Transaction Failed (%s)"
+msgstr "Transazione con GestPay fallita (%s)"
+
+msgid "Via %s %s/%s"
+msgstr "Con %s %s/%s"
+
+msgid "Stored Cards"
+msgstr "Carte salvate"
+
+msgid "Remove"
+msgstr "Elimina"
+
+msgid "Default"
+msgstr "Predefinita"
+
+msgid "There is not yet any credit card saved."
+msgstr "Non è ancora stata salvata alcuna carta di credito."
+
+msgid "Proceed"
+msgstr "Procedi"
+
+msgid "Loading..."
+msgstr "Caricamento in corso..."
+
+msgid "Payment in progress..."
+msgstr "Pagamento in corso..."
+
+msgid "Error: Browser not supported"
+msgstr "Errore: il tuo browser non è supportato"
